@@ -1,0 +1,28 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+h1{
+  color: antiquewhite; text-align: center;
+}
+h2{
+  color: antiquewhite;text-align: center;
+}
+h3{
+  text-align: center; color: blanchedalmond; 
+}
+ul{
+  text-align: center; color: papayawhip;
+}
+
+*{
+  background-color: black;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
